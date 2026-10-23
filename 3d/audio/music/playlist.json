@@ -1,0 +1,102 @@
+[
+ {
+  "file": "a-new-town.mp3",
+  "title": "A New Town (RPG Theme)",
+  "by": "cynicmusic (The Cynic Project)",
+  "source": "https://opengameart.org/content/a-new-town-rpg-theme",
+  "license": "CC0",
+  "mood": "day",
+  "gain": 0.6,
+  "loops": 1
+ },
+ {
+  "file": "town-3.mp3",
+  "title": "Town 3",
+  "by": "Pro Sensory (Alex McCulloch)",
+  "source": "https://opengameart.org/content/town-3",
+  "license": "CC0",
+  "mood": "day",
+  "gain": 0.48,
+  "loops": 1
+ },
+ {
+  "file": "loop-town.ogg",
+  "title": "Loop Town",
+  "by": "Fupi",
+  "source": "https://opengameart.org/content/loop-town",
+  "license": "CC0",
+  "mood": "day",
+  "gain": 0.39,
+  "loops": 1
+ },
+ {
+  "file": "calm-piano-1.mp3",
+  "title": "Calm Piano 1 (Vaporware)",
+  "by": "cynicmusic (The Cynic Project)",
+  "source": "https://opengameart.org/content/calm-piano-1-vaporware",
+  "license": "CC0",
+  "mood": "day",
+  "gain": 0.83,
+  "loops": 1
+ },
+ {
+  "file": "another-august.mp3",
+  "title": "Another August",
+  "by": "cynicmusic (The Cynic Project)",
+  "source": "https://opengameart.org/content/another-august",
+  "license": "CC0",
+  "mood": "any",
+  "gain": 0.87,
+  "loops": 1
+ },
+ {
+  "file": "heavenly-loop.ogg",
+  "title": "Heavenly Loop",
+  "by": "isaiah658",
+  "source": "https://opengameart.org/content/heavenly-loop",
+  "license": "CC0",
+  "mood": "any",
+  "gain": 1.57,
+  "loops": 3
+ },
+ {
+  "file": "not-that-east.ogg",
+  "title": "Not That East",
+  "by": "KiluaBoy",
+  "source": "https://opengameart.org/content/sci-fi-adventure-eastern-quiet-piano-loop",
+  "license": "CC0",
+  "mood": "any",
+  "gain": 2.45,
+  "loops": 2
+ },
+ {
+  "file": "contemplation.mp3",
+  "title": "Contemplation",
+  "by": "Joth",
+  "source": "https://opengameart.org/content/contemplation-0",
+  "license": "CC0",
+  "mood": "night",
+  "gain": 2.19,
+  "loops": 1
+ },
+ {
+  "file": "into-the-stars.ogg",
+  "title": "Into The Stars",
+  "by": "KiluaBoy",
+  "source": "https://opengameart.org/content/sci-fi-adventure-eastern-quiet-piano-loop",
+  "license": "CC0",
+  "mood": "night",
+  "gain": 0.75,
+  "loops": 4
+ },
+ {
+  "file": "baku-remix.mp3",
+  "title": "Mənə Bakı haqqında danış (müasir remiks)",
+  "by": "Nəsir Mustafayev (Suno ilə hazırlanıb)",
+  "source": "",
+  "license": "user",
+  "mood": "any",
+  "gain": 0.64,
+  "loops": 1
+ }
+]

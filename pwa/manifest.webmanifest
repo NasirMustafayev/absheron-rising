@@ -1,0 +1,17 @@
+{
+  "name": "Abşeron Yüksəlir",
+  "short_name": "Abşeron",
+  "description": "Bakının yüksəlişi — 1900-cü ildən şəhər qurma oyunu.",
+  "lang": "az",
+  "start_url": "../index.html",
+  "scope": "../",
+  "display": "fullscreen",
+  "display_override": ["fullscreen", "standalone"],
+  "background_color": "#f2dcc0",
+  "theme_color": "#f2dcc0",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
